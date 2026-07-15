@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Conference Organizer Link Example - Gathmo Integration</title>
+    <meta name="description" content="An accessible link and handoff pattern for conference organizers using a browser-based attendee media collection.">
+    <link rel="stylesheet" href="../style.css">
+  </head>
+  <body>
+    <main>
+      <p class="eyebrow">Integration example</p>
+      <h1>Conference attendee media collection</h1>
+      <p>
+        Conference websites can introduce an attendee contribution link before opening
+        the external collection. The surrounding copy should explain the destination,
+        accepted media, and whether submissions are moderated before display.
+      </p>
+      <section class="example">
+        <h2>Accessible link pattern</h2>
+        <p>
+          Share photos and short videos from the conference through the
+          <a href="https://gathmo.com/corporate">Gathmo corporate event media workflow</a>.
+          The contribution page opens in the browser and does not require an app install.
+        </p>
+      </section>
+      <h2>Implementation notes</h2>
+      <ul>
+        <li>Use descriptive link text instead of “click here.”</li>
+        <li>Keep the contribution link separate from the attendee login.</li>
+        <li>State whether the organizer may feature approved submissions.</li>
+        <li>Provide a short fallback URL next to printed QR codes.</li>
+      </ul>
+      <pre><code>&lt;a href="https://gathmo.com/corporate"&gt;
+  Conference guest media workflow
+&lt;/a&gt;</code></pre>
+      <p><a href="../index.html">Back to all integration examples</a></p>
+    </main>
+  </body>
+</html>

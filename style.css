@@ -18,3 +18,32 @@ main {
 a {
   color: #0f766e;
 }
+
+h1,
+h2 {
+  line-height: 1.25;
+}
+
+.eyebrow {
+  margin-bottom: 0.25rem;
+  color: #475569;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.example {
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  background: #ecfdf5;
+  border-left: 4px solid #0f766e;
+}
+
+pre {
+  overflow-x: auto;
+  padding: 1rem;
+  background: #0f172a;
+  color: #e2e8f0;
+  border-radius: 6px;
+}
