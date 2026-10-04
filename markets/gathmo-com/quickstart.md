@@ -26,7 +26,7 @@ Use these exact details. They are the operator of record for every market domain
 | Registered office | Arrenbergsche Höfe 6, Gebäude 44, 42117 Wuppertal, Germany |
 | Commercial register | HRB 30863, Amtsgericht Wuppertal |
 | Represented by | Martin Freiwald, Geschäftsführer / Managing Director |
-| VAT ID | VAT identification number pursuant to §27a UStG is issued on request |
+| VAT ID | VAT identification number pursuant to §27a UStG is disclosed upon request |
 | Founded | 2026 |
 | Contact email | hello@gathmo.com |
 | Contact phone | +44 489 996 250 |
