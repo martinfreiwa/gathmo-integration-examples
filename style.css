@@ -47,3 +47,67 @@ pre {
   color: #e2e8f0;
   border-radius: 6px;
 }
+
+table {
+  width: 100%;
+  margin: 1rem 0 1.5rem;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+th,
+td {
+  padding: 0.5rem 0.65rem;
+  border-bottom: 1px solid #e5e7eb;
+  text-align: left;
+  vertical-align: top;
+}
+
+thead th {
+  background: #f1f5f9;
+  color: #475569;
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+tbody th {
+  width: 32%;
+  color: #334155;
+  font-weight: 600;
+}
+
+.lede {
+  color: #334155;
+}
+
+.note {
+  color: #475569;
+  font-size: 0.9rem;
+}
+
+.markets {
+  padding-left: 0;
+  list-style: none;
+}
+
+.markets li {
+  margin-bottom: 0.8rem;
+}
+
+.markets .meta {
+  display: block;
+  color: #475569;
+  font-size: 0.85rem;
+}
+
+.gathmo-credit {
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  background: #ecfdf5;
+  border-left: 4px solid #0f766e;
+}
+
+code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
